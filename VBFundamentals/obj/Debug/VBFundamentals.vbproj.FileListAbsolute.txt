@@ -1,0 +1,11 @@
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\bin\Debug\VBFundamentals.exe.config
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\bin\Debug\VBFundamentals.exe
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\bin\Debug\VBFundamentals.pdb
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\bin\Debug\VBFundamentals.xml
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\obj\Debug\VBFundamentals.vbproj.AssemblyReference.cache
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\obj\Debug\VBFundamentals.Resources.resources
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\obj\Debug\VBFundamentals.vbproj.GenerateResource.cache
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\obj\Debug\VBFundamentals.vbproj.CoreCompileInputs.cache
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\obj\Debug\VBFundamentals.exe
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\obj\Debug\VBFundamentals.xml
+C:\Users\trucc\source\repos\VBFundamentals\VBFundamentals\obj\Debug\VBFundamentals.pdb
